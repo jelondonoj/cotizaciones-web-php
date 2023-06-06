@@ -1,3 +1,5 @@
+<div style="align">
+                 
 # Sistema de cotizaciones  
 He desarrollado un sistema web utilizando PHP y MySQL que permite la creación de clientes y generación automática de cotizaciones, incluyendo el cálculo del costo y tiempo estimado. Además, brinda la opción de imprimir las cotizaciones.
 
@@ -51,7 +53,7 @@ Puedes acceder a él desde una tableta, teléfono o computadora desde cualquier 
   
 # Requisitos del sistema   
 
--Necesita un servidor con *PHP y Apache*. La versión mínima de PHP es la *5.6*, esto debido a que se usa la notación corta del arreglo `[]`.
+Necesita un servidor con *PHP y Apache*. La versión mínima de PHP es la *5.6*, esto debido a que se usa la notación corta del arreglo `[]`.
 
 ## Extensiones  
 * PDO  
@@ -63,3 +65,5 @@ Configurar las credenciales en el archivo _env.php_.
   
 # Licencia  
 Código fuente disponible bajo la licencia MIT.
+
+</div> 
