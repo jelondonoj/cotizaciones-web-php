@@ -80,8 +80,12 @@ Estas son las capturas del proyecto.
 ## Crear Cliente:
 ![Crear Cliente](SS/crear-cliente.png)
 ## Lista de Clientes:
-![Lista de Clientes](SS/lista-de-cliente.png)
+![Lista de Clientes](SS/lista-de-clientes.png)
 ## Crear Presupuesto:
 ![Crear Presupuesto](SS/crear-presupuesto.png)
 ## Lista de Presupuestos:
 ![Lista de Presupuestos](SS/lista-de-presupuestos.png)
+## Editar Presupuesto:
+![Editar Presupuesto](SS/editar-presupuesto.png)
+## Presupuesto Editado:
+![Presupuesto Editado](SS/presupuesto-editado.png)
