@@ -72,4 +72,16 @@ Código fuente disponible bajo la licencia MIT.
 Estas son las capturas del proyecto.
 
 ## Iniciar Sesión:
-![Captura del proyecto](SS.png)
+![Inicio de sesión](SS/login.png)
+## Registrarse:
+![Registrarse](SS/registro.png)
+## Ajustes:
+![Ajustes](SS/ajustes.png)
+## Crear Cliente:
+![Crear Cliente](SS/crear-cliente.png)
+## Lista de Clientes:
+![Lista de Clientes](SS/lista-de-cliente.png)
+## Crear Presupuesto:
+![Crear Presupuesto](SS/crear-presupuesto.png)
+## Lista de Presupuestos:
+![Lista de Presupuestos](SS/lista-de-presupuestos.png)
