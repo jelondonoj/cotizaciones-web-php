@@ -15,19 +15,19 @@
 ; con un punto y coma (;) son ignoradas
 
 ; URL base del proyecto, algo como https://sitio.com
-BASE_URL = "https://demos-github-jl.000webhostapp.com/Cotizaciones-Web-Con-PHP"
+BASE_URL = "misitio.com"
 
 
-USUARIO_MYSQL = "id20686647_cotizaciones"
-PASS_MYSQL = "Cotizaciones1234*"
-NOMBRE_BD_MYSQL = "id20686647_cotizaciones"
-HOST_MYSQL = "localhost"
+USUARIO_MYSQL = ""
+PASS_MYSQL = ""
+NOMBRE_BD_MYSQL = ""
+HOST_MYSQL = ""
 
 
-USUARIO_MYSQL_SESION = "id20686647_cotizaciones"
-PASS_MYSQL_SESION = "Cotizaciones1234*"
-NOMBRE_BD_MYSQL_SESION = "id20686647_cotizaciones"
-HOST_MYSQL_SESION = "localhost"
+USUARIO_MYSQL_SESION = ""
+PASS_MYSQL_SESION = ""
+NOMBRE_BD_MYSQL_SESION = ""
+HOST_MYSQL_SESION = ""
 
 ; De Google Analytics
 ID_SEGUIMIENTO = ""
