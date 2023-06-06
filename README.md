@@ -69,5 +69,7 @@ Código fuente disponible bajo la licencia MIT.
 </div> 
 
 # Capturas del proyecto
+Estas son las capturas del proyecto.
 
-Iniciar Sesión:
+## Iniciar Sesión:
+![Captura del proyecto](SS.png)
