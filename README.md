@@ -1,4 +1,4 @@
-<div style="align">
+<div align="justify">
                  
 # Sistema de cotizaciones  
 He desarrollado un sistema web utilizando PHP y MySQL que permite la creación de clientes y generación automática de cotizaciones, incluyendo el cálculo del costo y tiempo estimado. Además, brinda la opción de imprimir las cotizaciones.
