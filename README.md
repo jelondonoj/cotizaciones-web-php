@@ -67,3 +67,6 @@ Configurar las credenciales en el archivo _env.php_.
 Código fuente disponible bajo la licencia MIT.
 
 </div> 
+
+# Capturas del proyecto
+##Iniciar Sesión
