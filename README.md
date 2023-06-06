@@ -69,4 +69,5 @@ Código fuente disponible bajo la licencia MIT.
 </div> 
 
 # Capturas del proyecto
-##Iniciar Sesión
+
+Iniciar Sesión:
